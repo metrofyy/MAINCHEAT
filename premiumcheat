@@ -81,7 +81,7 @@ local Paragraph = Tab:CreateParagraph({Title = "Premium #2", Content = "(null)"}
 local Button = Tab:CreateButton({
    Name = "Premium Menu",
    Callback = function()
-      loadstring(game:HttpGet("https://github.com/metrofyy/cheeto/blob/main/rfregergege", true))()
+      loadstring(game:HttpGet("https://github.com/metrofyy/cheeto/blob/main/rfregergege"))()
    end,
 })
 
